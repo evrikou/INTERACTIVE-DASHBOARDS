@@ -1,6 +1,6 @@
 # INTERACTIVE-DASHBOARDS 
 Project Theme :Books
-In cooperation with Fotis Karamplias
+<br/>In cooperation with Fotis Karamplias
 
 ⚠ Disclaimer: This project is for educational purposes only and in any case the results are not guaranteed to be best practice.
 
