@@ -18,8 +18,8 @@ Books_Data_Clean.csv
 
 # Software
 📊 Dashboard: Power Bi
-⚙️ Programming Language : Python
+<br/>⚙️ Programming Language : Python
 
 Libraries used:
-1.Pandas
+<br/>Pandas
 
