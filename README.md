@@ -17,30 +17,30 @@ Books_Data_Clean.csv
 
 # Content
 a) Filter for publishing years
-b) Filter for 3 book genres
-c) Filter for book language
+<br/>b) Filter for 3 book genres
+<br/>c) Filter for book language
 
 SALES TAB
-a) What is the total profit of books' sales
-b) How many books have been sold
-c) How many books each genre have
-d) How the number of sales changes by publishing year
-e) How the profit changes by publishing year
-f) Which authors have published the most books
-g) Which are the top publishers based on their profit
+<br/>a) What is the total profit of books' sales
+<br/>b) How many books have been sold
+<br/>c) How many books each genre have
+<br/>d) How the number of sales changes by publishing year
+<br/>e) How the profit changes by publishing year
+<br/>f) Which authors have published the most books
+<br/>g) Which are the top publishers based on their profit
 
 RATINGS TAB
-a) What is the distribution of the ratings
-b) How the sales are affected by the rating of a book
-c) Which are the top rated authors
-d) Which are the top rated books
+<br/>a) What is the distribution of the ratings
+<br/>b) How the sales are affected by the rating of a book
+<br/>c) Which are the top rated authors
+<br/>d) Which are the top rated books
 
 AUTHORS TAB 
-a) Which are the authors' categories based on their experience and popularity
-b) How is the price of a book affected by this categorization (e.x in novice category belong new authors,so the production cost for them is higher and that's why their books are first in the price categorization)
-c) How these categories affect the ratings
-d) How many books are sold based on authors' experience categories and genre
-e) What is the profit based on authors' experience categories and genre
+<br/>a) Which are the authors' categories based on their experience and popularity
+<br/>b) How is the price of a book affected by this categorization (e.x in novice category belong new authors,so the production cost for them is higher and that's why their books are first in the price categorization)
+<br/>c) How these categories affect the ratings
+<br/>d) How many books are sold based on authors' experience categories and genre
+<br/>e) What is the profit based on authors' experience categories and genre
 
 # Software
 📊 Dashboard: Power Bi
